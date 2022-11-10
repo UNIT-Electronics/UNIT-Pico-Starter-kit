@@ -1,0 +1,9 @@
+Los sensores PIR se aplican en diversos ambientes como sistemas de luces automáticas en edificios. En esta práctica desarrollaremos ese sistema con un sensor de presencia PIR y un relevador.
+
+El funcionamiento del programa es el siguiente:
+
+* El microcontrolador se mantiene en un ciclo infinito manteniendo el relevador apagado
+* Si recibe una interrupción disparada por el sensor PIR energiza el relevador y lo mantendrá activado por un tiempo específico
+* Cuando acabe este tiempo el relevador apagará la luz hasta una nueva detección.
+
+Al igual que la práctica anterior coloca el sensor opuesto a ti, de manera que tus movimientos no lo activen, pasa tu mano frente a él y observa lo que ocurre.
