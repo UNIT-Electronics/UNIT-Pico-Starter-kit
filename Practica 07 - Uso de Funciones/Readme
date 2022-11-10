@@ -1,0 +1,6 @@
+Con ayuda de una función es posible hacer que una parte del programa se ejecute de forma ininterrumpida, ya que son bloques de código que realizan una operación. 
+Las funciones se declaran de la siguiente forma
+
+    def NombreDeLaFuncion (x):
+
+En el código se ejemplifica su uso
