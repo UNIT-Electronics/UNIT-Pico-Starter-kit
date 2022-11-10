@@ -1,0 +1,3 @@
+Observaremos con este código el funcionamiento de la señal PWM por medio de la intensidad de iluminación de un Led. 
+
+El código cuenta con las configuraciones necesarias para configurar la señal PWM dentro de la Raspberry Pi Pico.
