@@ -1,0 +1,3 @@
+Utilizaremos el sensor PIR junto con un buzzer a manera de sirena para crear un sistema de alarma completo.
+
+Los ciclos For anidados generarán la sirena y el sistema de luces.
