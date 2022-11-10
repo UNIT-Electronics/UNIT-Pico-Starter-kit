@@ -1,0 +1,3 @@
+En el siguiente código, tendremos dos programas ejecutándose de manera simultánea: uno llevará el ciclo del semáforo y otro esperará a que el botón sea presionado para hacer sonar el buzzer.
+
+Cada uno de los programas se ejecuta en un núcleo de la Raspberry Pi Pico distinto. Es un ejemplo de como configurar y utilizar los dos núcleos de la Raspberry.
