@@ -1,0 +1,3 @@
+Compila el siguiente código en Thonny, con el circuito armado mueve el potenciómetro a ambos lados, observa como aumenta y disminuye el brillo del led.
+
+En la pr´ctica se hace uso de los pines PWM y ADC de la Raspberry Pi Pico.
