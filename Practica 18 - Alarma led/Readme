@@ -1,0 +1,9 @@
+n esta práctica utilizaremos el  PIR HC-SR501 y la Raspberry como alarma con luces led, al detectar una presencia cercana la Pi Pico activa un led que funcionará como alarma visual.
+
+Para este proyecto se utilizará la funcion toggle()para hacer parpadear el led con una menor cantidad de código.
+
+El funcionamiento será el siguiente:
+
+* La Raspberry mantiene en ciclo de encendido y apagado de un led de manera continua con tiempo de 2 s.
+* Se mantiene el ciclo anterior hasta que recibe una interrupción proveniente del sensor, en ese momento se ejecuta un ciclo donde el led prende y apaga a mayor velocidad indicando que se detectó un movimiento.
+* Si no se detecta nuevamente movimiento el led parpadea de manera normal como en el primer paso.
