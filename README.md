@@ -20,6 +20,17 @@ Es un kit básico para Raspberry Pi Pico que te ayudará a conocer el mundo de l
 
 Puedes encontrar todos los materiales ocupados en el manual dentro de nuestra tienda [UNIT Electronics](https://uelectronics.com/)  ![image](https://user-images.githubusercontent.com/105755201/201178191-f63b6224-bf40-4aee-9777-9edf003b62b3.png)
 
+* [Raspberry Pi Pico](https://uelectronics.com/producto/raspberry-pi-pico-rp2040-arm-cortex-m0/)
+* [Header Macho Tira de 40 Pines 2.54mm](https://uelectronics.com/producto/header-macho-tira-de-40-pines-2-54mm/)
+* [Cable USB a MicroUSB 1m](https://uelectronics.com/producto/cable-usb-a-microusb-1m-para-nodemcu-esp32-2/)
+* [Cables Dupont Cortos M-M](https://uelectronics.com/producto/cables-dupont-cortos-10cm-hh-mh-mm/)
+* [Cables Dupont Cortos M-H](https://uelectronics.com/producto/cables-dupont-cortos-10cm-hh-mh-mm/)
+* [140 cables para puentear 14 tamaños protoboard](https://uelectronics.com/producto/140-cables-para-puentear-14-tamanos-protoboard/)
+* [Protoboard](https://uelectronics.com/producto/protoboard-400-pts/)
+* [Buzzer Zumbador 5V Activo](https://uelectronics.com/producto/buzzer-5v-activo/)
+* [Push Button Grande 12mmx12mm](https://uelectronics.com/producto/push-boton-grande-12x12mm/) x3
+
+
 ## Autores ✒️
 
 ```
