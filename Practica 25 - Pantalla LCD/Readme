@@ -1,0 +1,6 @@
+Para esta práctica utilizaremos una pantalla LCD con I2C, la cual requiere de una librería externa, en la carpeta puedes encontrar los dos archivos necesarios para utilizar la comunicación I2C de la pantalla.
+Solo instalalos dentro de la memoria de la Raspberry Pi Pico.
+
+Como cualquier biblioteca, debemos declararla al inicio del programa con las propiedades que necesitamos:
+* from lcd_api import LcdApi
+* from pico_i2c_lcd import I2cLcd
