@@ -1,0 +1,3 @@
+Tendremos al inicio un led encendido por un tiempo aleatorio, en cuanto se apague el led debes de presionar un botón y el programa te devolverá el tiempo que tardaste en apretarlo. 
+
+Para ello configuramos las solicitudes de interrupción (IRQ) de la Pi Pico
