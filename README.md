@@ -23,6 +23,6 @@ Puedes encontrar todos los materiales ocupados en el manual dentro de nuestra ti
 ## Autores ✒️
 
 ```
-Material desarrollado por el equipo de UNIT Electronics
+Material compilado por el equipo de UNIT Electronics
 ```
 [UNIT Electronics](https://uelectronics.com/)
