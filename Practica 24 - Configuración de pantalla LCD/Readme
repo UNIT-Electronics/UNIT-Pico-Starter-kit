@@ -1,0 +1,7 @@
+En esta practica se configura los pines 6 y 7 de la Raspberry Pi Pico para trabajar con comunicación I2C.
+
+El siguiente código tendrá como funcionalidad:
+* Configurar la comunicación I2C entre la tarjeta Pi Pico y la pantalla LCD
+* Obtener la dirección I2C de la pantalla.
+
+Si no tienes nada conectado a los pines que configuraste o los conectas de forma errónea te aparecerá un mensaje de advertencia. Si esto ocurre revisa tus conexiones, que la LCD está energizada correctamente y que los pines sean los correctos.
