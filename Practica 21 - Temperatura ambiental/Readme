@@ -1,0 +1,6 @@
+El microcontrolador de la Raspberry Pi Pico posee internamente un sensor de temperatura conectado al canal 4 del ADC.
+
+Compila el código en Thonny, no necesitas ningún componente externo para medir la temperatura. 
+Las primeras mediciones serán la temperatura ambiente, también puedes tocar o acercar objetos al chip RP2040 y observar como la temperatura varía. 
+
+Ten cuidado al sensar temperaturas fuera del rango de -20°C a 70°C para no dañar este u otros componentes de la placa.
