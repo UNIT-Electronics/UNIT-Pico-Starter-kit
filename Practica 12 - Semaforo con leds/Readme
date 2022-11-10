@@ -1,0 +1,7 @@
+En el siguiente código, los leds pasan de estar apagados a encendidos en intervalos de tiempo por medio de la función time.sleep proveniente de la librería time. Este funcionamiento está dentro de un bucle while , comenzando la secuencia de la siguiente forma:
+
+* Los 3 led apagados 
+* Encendido de Led Rojo
+* Encendido de Led Verde
+* Encendido de Led Amarillo
+* Reinicio de ciclo
