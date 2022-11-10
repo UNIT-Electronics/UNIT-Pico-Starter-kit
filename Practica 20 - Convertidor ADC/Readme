@@ -1,0 +1,3 @@
+En esta práctica diseñaremos un medidor de voltaje a través de un potenciómetro, para ello trabajaremos con el Convertidor Analógico Digital (ADC).
+
+una vez que ejecutes el código en Thonny mueve la perilla del potenciómetro y observa que valores obtienes en la Consola, si cuentas con un multímetro puedes realizar mediciones de voltaje para comparar el valor que obtienes.
