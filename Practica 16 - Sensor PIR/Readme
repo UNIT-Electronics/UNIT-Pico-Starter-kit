@@ -1,0 +1,4 @@
+Los sensores son muy importantes en la programación de microcontroladores, ya que ,son dispositivos con los que podemos obtener variables físicas y procesarlas a un nivel que la Pi Pico pueda comprender: un voltaje. 
+
+En esta práctica configuraremos la Pi Pico para que lea el sensor PIR HC-SR501 el cual detecta la presencia por medio del movimiento con base a la radiación infrarroja en un área determinada.
+
