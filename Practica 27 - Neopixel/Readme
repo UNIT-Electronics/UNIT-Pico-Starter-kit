@@ -1,4 +1,4 @@
-Este programa configura una tira Neopixel de 8 leds con la Raspberry Pi Pico, necesitas guardar el archivo "neopixel.py" dentro de la memoria de la Pi Picopara funcionar.
+Este programa configura una tira Neopixel de 8 leds con la Raspberry Pi Pico, necesitas guardar el archivo "neopixel.py" dentro de la memoria de la Pi Pico para funcionar.
 
 Para declarar la libreria dentro de tu programa utiliza el siguiente comando:
 * from neopixel import Neopixel
