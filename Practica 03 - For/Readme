@@ -1,0 +1,5 @@
+For es una porción de código que se ejecuta de forma cíclica por un cierto número de veces.
+
+Se compone de un valor de inicio y  un valor de parada que da por finalizada la ejecución de código. 
+
+Basta con colocar dos puntos (:) al final de la condición para indicar que las siguientes líneas pertenecen al ciclo For. Es muy importante que dentro del ciclo exista una sangría o 4 espacios antes de cada línea
