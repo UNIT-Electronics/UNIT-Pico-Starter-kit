@@ -1,0 +1,3 @@
+El siguiente código configura un blink en el led interno de la Raspberry Pi Pico.
+
+Se hace uso de las funciones Pin y value()
