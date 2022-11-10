@@ -1,0 +1,9 @@
+El uso de variables en Python como en los demás lenguajes de programación es muy importante.
+
+Las variables nos ayudan a almacenar información de mediciones o alguna operación matemática. Las más comunes son:
+
+* int: Variables de números enteros
+* float: Números con punto decimal 
+* string: Cadenas de caracteres 
+* char: Carácter 
+* bool: Binario 
