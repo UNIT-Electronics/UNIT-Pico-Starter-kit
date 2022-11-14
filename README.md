@@ -1,4 +1,6 @@
-# UNIT Pico Starter kit 🚀
+![](https://uelectronics.com/wp-content/uploads/2021/05/Logo-UNIT_Web-04-800x182.png)
+
+# UNIT Pico Starter kit
 
 El UNIT PI PICO KIT te ayudará a programar con el lenguaje de programación Microphyton desde  cero; es simple debido a su fácil sintaxis. Podrás desarrollar códigos desde la interfaz de Thonny y ver tus proyectos funcionando sobre la tarjeta de desarrollo Raspberry Pi Pico.
 Es un kit básico para Raspberry Pi Pico que te ayudará a conocer el mundo de la electrónica armando diferentes proyectos desde la tarjeta de conexiones de Pi Pico. Entre las prácticas podrás realizar: 
