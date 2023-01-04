@@ -1,0 +1,8 @@
+La función input() es capaz de recibir caracteres y requiere declarar una variable para almacenar el dato que estamos ingresando por teclado.
+
+En el código declaramos dos variables que guardarán información:
+
+* una cadena de caracteres
+* un número entero.
+
+En consola aparecerá el mensaje de "¿Cómo te llamas? ", se detiene la ejecución hasta que escribas la respuesta y presiones la tecla enter, posteriormente continuará el código.

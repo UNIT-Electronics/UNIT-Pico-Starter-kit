@@ -1,0 +1,3 @@
+Este programa te enseña a configurar los pines de la Raspberry Pi Pico como salidas
+
+Identifica el positivo del led y conéctalo al Pin 0 de la Pi Pico, el polo negativo conéctalo a una resistencia a negativo.

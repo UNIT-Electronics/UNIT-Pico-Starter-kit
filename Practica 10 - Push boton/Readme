@@ -1,0 +1,3 @@
+Esta practica te enseña a configurar los pines de la Raspberry Pi Pico como entradas digitales. Cada entrada soporta un voltaje máximo de 3.3V
+
+La Pi Pico posee internamente resistencias Pull Up y Pull Down,que pueden ser activadas a través del software, en el programa se configura un pin como Pull Up y otro como Pull Down

@@ -1,0 +1,1 @@
+En este código se configuran dos pines distintos uno como entrada en modo Pull Down para el Push Button  y otro como salida para el led. Cuando el botón sea presionado se encenderá el led por dos segundos, después se apagará el led.

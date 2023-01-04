@@ -1,0 +1,3 @@
+Programa que crea un juego para dos personas donde gana quien presione más rápido su botón.
+
+Es una prueba de reflejos que utiliza las interrupciones de la Pi Pico, cada que presionas el botón se genera un flanco de subida que activa una interrupción IRQ

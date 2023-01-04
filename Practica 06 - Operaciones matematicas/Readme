@@ -1,0 +1,3 @@
+En MicroPython puedes realizar cualquier operación básica: sumas, restas, multiplicaciones o divisiones.
+
+Vamos a realizar una calculadora la cual al ingresar dos cifras con la función input() realice todas las operaciones básicas.

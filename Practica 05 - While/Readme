@@ -1,0 +1,3 @@
+While  es una porción de código que se ejecuta de forma indefinida hasta que una condición (que tu defines) resulta ser falsa. Al cumplirse, el ciclo finaliza y continúa la ejecución del resto del código. 
+
+Realizaremos un pequeño programa que te pide ingresar una contraseña que posteriormente se validará dentro de un ciclo While.
