@@ -9,10 +9,10 @@ led.freq(1000)
 
 while True:
     #Ciclo para aumentar poco a poco el brillo del led
-    for i in range (0,65536):
+    for i in range (0,65536,10):
         #Asignamos al ciclo util el valor de i
         led.duty_u16(i)
-        #Retardo de 5 nanosegundos
-        time.sleep(0.0005)
+        #Retardo de 1 milisegundos
+        time.sleep(0.001)
     #Retardo de 2 segundos
     time.sleep(2)
